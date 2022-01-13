@@ -1,6 +1,6 @@
 # Tesla-Clone
 
-Tesla Clone app built using react.
+Tesla Clone app built using react. (https://61dfe864dd24d6117c533512--romantic-torvalds-9a9e92.netlify.app/)
 
 # Usage
 
