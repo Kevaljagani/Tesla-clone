@@ -7,7 +7,7 @@ Tesla Clone app built using react.
 Though the app is not deployed, you can always use it by</br>
 
 2. Clone the repo</br>
-	- `git clone https://github.com/Kevaljagani/tesla-clone.git</br>`
+	- `git clone https://github.com/Kevaljagani/tesla-clone.git`
 3. Install NPM packages</br>
 	- `npm install`
 
